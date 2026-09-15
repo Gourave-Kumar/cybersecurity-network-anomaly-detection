@@ -1,5 +1,9 @@
 # SafeX Cybersecurity Network Anomaly Detection
 
+## Note
+
+The trained model file `cybersecurity_anomaly_detector.pkl` is not uploaded to GitHub because it exceeds GitHub's 100MB file size limit. To generate the model file, run the Jupyter Notebook from start to finish. The model will be saved automatically inside the `model/` folder.
+
 A machine learning project for detecting **normal network traffic** and **attack/anomalous network traffic** using the **UNSW-NB15 cybersecurity dataset**.  
 This project includes a complete ML pipeline and a simple **Streamlit prototype** for interactive prediction.
 
